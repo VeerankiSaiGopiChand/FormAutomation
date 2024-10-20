@@ -1,3 +1,6 @@
+## Live Demo
+The application is hosted on Vercel. You can view it here: [form-automation](https://form-automation.vercel.app/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
