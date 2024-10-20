@@ -5,7 +5,7 @@ import DataProvider from "../containers/home/DataProvider";
 
 const Home: NextPage = () => {
   return (
-    <Layout title="Settings">
+    <Layout title="Automation">
       <DataProvider>
         <HomeLayout />
       </DataProvider>
